@@ -1,0 +1,22 @@
+[
+  {
+    "name": "puck1",
+    "status": "junior"
+  },
+  {
+    "name": "puck2",
+    "status": "middle"
+  },
+  {
+    "name": "puck3",
+    "status": "senior"
+  },
+  {
+    "name": "puck4",
+    "status": "lead"
+  },
+  {
+    "name": "puck5",
+    "status": "god"
+  }
+]
